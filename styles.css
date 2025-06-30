@@ -58,12 +58,14 @@ body {
   color: #c0b3f8;
 }
 
+/* ✅ Hero Section */
 .hero {
   text-align: center;
   padding: 100px 20px;
   background: url('images/pic.01.svg') no-repeat center center/cover;
 }
 
+/* Content Section */
 .section {
   padding: 60px 20px;
   text-align: center;
@@ -71,6 +73,7 @@ body {
   margin-top: 20px;
 }
 
+/* Footer */
 .footer {
   background-color: #141414;
   text-align: center;

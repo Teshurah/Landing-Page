@@ -177,10 +177,12 @@ body {
 }
 
 .footer__links {
- display: flex;
-  justify-content: space-between;
+  display: flex;
+  justify-content: center; /* Changed from space-between to center */
   flex-wrap: wrap;
   gap: 4rem;
+}
+
 }
 
 .footer__link--items {
